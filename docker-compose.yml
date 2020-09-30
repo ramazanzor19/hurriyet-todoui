@@ -1,0 +1,8 @@
+version: '2'
+services:
+  todoui:
+    container_name: todoui
+    image: ramazanzor19/todoui
+    ports:
+      - 8888:80
+

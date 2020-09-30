@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "todoui"
+    }
+  },
+  "defaultProject": "todoui",
+  "cli": {
+    "analytics": false
+  }
 }
